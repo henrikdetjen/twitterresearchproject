@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/12/Crawler/src/crawler
+END
+Crawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/Crawler/src/crawler/Crawler.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/Crawler/src/crawler/Config.java
+END
+CrawlerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/Crawler/src/crawler/CrawlerListener.java
+END
+HashtagWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/Crawler/src/crawler/HashtagWriter.java
+END

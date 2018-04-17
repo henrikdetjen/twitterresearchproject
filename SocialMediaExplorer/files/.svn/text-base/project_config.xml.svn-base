@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><config>
+    
+    <analysis>
+        <!-- TODO -->
+    </analysis>
+    
+    <crawlers>
+        
+        <search>
+            <hashtag>tatort</hashtag>
+            <hashtag>halligalli</hashtag>
+			<hashtag>tvog</hashtag>
+			<hashtag>fashionhero</hashtag>
+			<hashtag>annewill</hashtag>
+			<hashtag>guentherjauch</hashtag>
+			<hashtag>terrax</hashtag>
+			<hashtag>sterntv</hashtag>
+			<hashtag>spiegeltv</hashtag>
+        </search>
+       
+        <next>
+       		<hashtag_next>neu_und_nicht_tatort</hashtag_next>
+            <hashtag_next>halligalli</hashtag_next>
+			<hashtag_next>tvog</hashtag_next>
+			<hashtag_next>fashionhero</hashtag_next>
+			<hashtag_next>annewill</hashtag_next>
+			<hashtag_next>guentherjauch</hashtag_next>
+			<hashtag_next>terrax</hashtag_next>
+			<hashtag_next>sterntv</hashtag_next>
+			<hashtag_next>spiegeltv</hashtag_next> 
+        </next>
+        
+        <!-- in ms -->
+        <crawler_newFileInterval>12000000</crawler_newFileInterval>
+        
+        <twitter_crawler>
+            
+            <!-- twitter api auth -->
+        	<twitter_ConsumerKey>key</twitter_ConsumerKey>
+        	<twitter_ConsumerSecret>secret</twitter_ConsumerSecret>
+        	<twitter_AccessToken>token</twitter_AccessToken>
+        	<twitter_AccessTokenSecret>secret</twitter_AccessTokenSecret>
+        	
+        	<!-- if rest api is used, limit for result (15/get) -->
+        	<twitter_result_restriction>45</twitter_result_restriction>
+        	
+        </twitter_crawler>
+        
+    </crawlers>
+
+    <io>
+        <location_tweets>files/rawdata/tweets/</location_tweets>
+        <location_results>files/serializedClusterElements/</location_results>
+        <location_CAS>files/serializedCases/</location_CAS>
+        <location_CE>files/serializedClusterElements/</location_CE>
+    </io>
+    
+    <lastAnalysis>20140311162046</lastAnalysis>
+    
+</config>

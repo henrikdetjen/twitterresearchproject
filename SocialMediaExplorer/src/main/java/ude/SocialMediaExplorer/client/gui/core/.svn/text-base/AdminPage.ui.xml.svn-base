@@ -1,0 +1,92 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:b="urn:import:com.github.gwtbootstrap.client.ui">
+	<ui:style>
+	</ui:style>
+	<g:HTMLPanel>
+
+		<b:Row>
+
+			<b:Column size="10" offset="1">
+			    
+				<b:Heading size="3">Options</b:Heading>
+				
+				<b:Well>
+					    
+				    <b:Row>
+				        <b:Column size="2">
+							<b:Paragraph>Crawler Interval (in min):</b:Paragraph>
+							<b:Paragraph ui:field="input_interval">test</b:Paragraph>
+							<b:Button ui:field="button_change_interval">change</b:Button>
+						</b:Column>
+				    </b:Row>
+
+				    
+				    <b:Row>
+				        <b:Column size="10">
+					        <g:HTMLPanel>
+					            <hr />
+					        </g:HTMLPanel>
+				        </b:Column>
+				    </b:Row>				    
+				    
+					<b:Row>
+
+						<b:Column size="3">
+							<b:ControlLabel for="multiSelect">Hashtags being crawled NOW:</b:ControlLabel>
+							<b:Controls>
+								<b:ListBox ui:field="list_hashtags_actual"
+									multipleSelect="true" b:id="multiSelect">
+								</b:ListBox>
+							</b:Controls>
+						</b:Column>
+
+						<b:Column size="3" offset="1">
+							<b:Row>
+								<b:ControlLabel for="multiSelect">Hashtags being crawled in
+									NEXT interval:</b:ControlLabel>
+								<b:Controls>
+									<b:ListBox ui:field="list_hashtags" multipleSelect="true"
+										b:id="multiSelect">
+									</b:ListBox>
+								</b:Controls>
+
+							</b:Row>
+							<b:Row>
+								<b:Controls>
+									<b:Button ui:field="btn_open_dialog_add_hashtag">Add</b:Button>
+									<b:Button ui:field="btn_remove_hashtags">Remove</b:Button>
+								</b:Controls>
+							</b:Row>
+						</b:Column>
+
+					</b:Row>
+
+
+				</b:Well>
+
+			</b:Column>
+
+		</b:Row>
+
+		<!-- dialogs -->
+		<b:Modal ui:field="dialog_add_hashtag" title="Add new hashtag"
+			backdrop="STATIC" keyboard="true" animation="true">
+			<g:Label>new hashtag:</g:Label>
+			<b:TextBox ui:field="input_add_hashtag" placeholder="#" />
+			<b:ModalFooter>
+				<b:Button ui:field="btn_add_hashtag" type="PRIMARY">add</b:Button>
+			</b:ModalFooter>
+		</b:Modal>
+
+		<b:Modal ui:field="dialog_set_interval" title="Set Crawler Interval"
+			backdrop="STATIC" keyboard="true" animation="true">
+			<g:Label>type in a new interval in MINUTES:</g:Label>
+			<b:TextBox ui:field="input_set_interval" placeholder="i.e. 120" />
+			<b:ModalFooter>
+				<b:Button ui:field="btn_set_interval" type="PRIMARY">ok</b:Button>
+			</b:ModalFooter>
+		</b:Modal>
+
+	</g:HTMLPanel>
+</ui:UiBinder> 

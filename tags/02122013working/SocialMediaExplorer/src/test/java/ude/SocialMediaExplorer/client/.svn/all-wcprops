@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/108/tags/02122013working/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client
+END
+TestTwitterJSONFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/108/tags/02122013working/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestTwitterJSONFileReader.java
+END
+TestRESTReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/108/tags/02122013working/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestRESTReader.java
+END
+TestAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/108/tags/02122013working/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestAnalysis.java
+END
+TestTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/108/tags/02122013working/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestTimeStamp.java
+END

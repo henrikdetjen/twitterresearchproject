@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/385/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis
+END
+SenseAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/351/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/SenseAnnotator.java
+END
+POSMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/346/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/POSMerger.java
+END
+MyLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/MyLink.java
+END
+OrthographyCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/349/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/OrthographyCluster.java
+END
+Clusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/383/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/Clusterer.java
+END
+ArktweetAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/345/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/ArktweetAnnotator.java
+END
+SimpleSenseAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/SimpleSenseAnnotator.java
+END
+CleanedSenseAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/CleanedSenseAnnotator.java
+END
+SenseSlidingWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/337/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/SenseSlidingWindow.java
+END
+Analysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/385/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/Analysis.java
+END
+SentimentLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/351/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/SentimentLexicon.java
+END
+FrequencyFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/FrequencyFinder.java
+END
+CustomEdgeBetweennessClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/CustomEdgeBetweennessClusterer.java
+END
+MyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/348/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/MyNode.java
+END
+SentimentAnnotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/347/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/SentimentAnnotator.java
+END

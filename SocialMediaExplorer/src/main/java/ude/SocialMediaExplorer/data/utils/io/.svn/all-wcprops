@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/384/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io
+END
+CASWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/384/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/CASWriter.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/197/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/FileFilter.java
+END
+TextFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/197/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/TextFileReader.java
+END
+HashtagStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/197/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/HashtagStreamWriter.java
+END
+ObjectReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/263/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/ObjectReader.java
+END
+CASReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/114/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/CASReader.java
+END
+XMLFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/201/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/XMLFileManager.java
+END
+JSONReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/51/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/data/utils/io/JSONReader.java
+END

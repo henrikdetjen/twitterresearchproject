@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/353/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client
+END
+TestTwitterJSONFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/63/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestTwitterJSONFileReader.java
+END
+TestRESTReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/63/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestRESTReader.java
+END
+TestLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/305/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestLexicon.java
+END
+TestAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/353/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestAnalysis.java
+END
+TestXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/197/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestXMLReader.java
+END
+TestTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/90/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestTimeStamp.java
+END
+TestCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/234/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestCE.java
+END
+TestClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/202/SocialMediaExplorer/src/test/java/ude/SocialMediaExplorer/client/TestClusterer.java
+END

@@ -1,0 +1,42 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:b="urn:import:com.github.gwtbootstrap.client.ui">
+	<ui:style>
+	</ui:style>
+	<g:HTMLPanel>
+
+		<b:Row>
+
+			<b:Column size="6" offset="3">
+
+				    <b:Heading size="3">Options</b:Heading>
+					<b:WellForm>
+						<b:Row>
+						    <b:Column size="1">
+								<b:Icon type="HAND_RIGHT" size="TWO_TIMES"></b:Icon>
+						    </b:Column>
+						    <b:Column size="3">
+								<b:Paragraph>You must be logged in to change settings...</b:Paragraph>
+						    </b:Column>
+						</b:Row>
+					   	<g:HTMLPanel>
+							<hr />
+						</g:HTMLPanel>
+						<b:ControlLabel>Name</b:ControlLabel>
+						<b:TextBox ui:field="name" alternateSize="XLARGE"
+							placeholder="type in name..." />
+						<b:ControlLabel>Password</b:ControlLabel>
+						<b:PasswordTextBox ui:field="pass"
+							alternateSize="XLARGE" placeholder="type in password..." />
+						<g:HTMLPanel>
+							<hr />
+						</g:HTMLPanel>
+						<b:Button ui:field="button_login">Validate</b:Button>
+					</b:WellForm>
+
+			</b:Column>
+
+		</b:Row>
+
+	</g:HTMLPanel>
+</ui:UiBinder> 

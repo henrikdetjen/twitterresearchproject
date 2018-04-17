@@ -1,0 +1,84 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:b="urn:import:com.github.gwtbootstrap.client.ui">
+	<ui:style>
+		#homeDiv{
+			float: left;
+			cursor:	pointer;
+			margin-bottom: 2em;
+			display: inline-block;		
+		}
+
+		#helpDiv, #adminDiv{
+			display: inline-block;
+			float: right;
+			cursor: pointer;
+			margin-bottom: 2em;
+		}
+
+		#helpDiv{
+			margin-right:1em;
+		}
+
+		#homeDiv:hover,
+		#helpDiv:hover,
+		#adminDiv:hover{
+			color: #003366;
+		}
+		#homeDiv:active, 
+		#adminDiv:active, 
+		#helpDiv:active{
+			color: #CCCCCC;
+		}
+	</ui:style>
+	<g:HTMLPanel>
+
+		<b:Row>
+
+			<b:Column size="10" offset="1">
+				<b:PageHeader subtext="Analysis of weekly TV programs">Social Media Explorer</b:PageHeader>
+			</b:Column>
+
+		</b:Row>
+
+		<b:Row>
+
+			<b:Column size="6" offset="3">
+
+						<g:HTMLPanel>
+							<div id="homeDiv" align="left">
+								<g:FocusPanel ui:field="home">
+									<g:HTMLPanel>
+									    <p>
+											Explore
+										</p>
+										<b:Icon type="EYE_OPEN" size="FOUR_TIMES"></b:Icon>
+									</g:HTMLPanel>
+								</g:FocusPanel>
+							</div>
+
+							<div id="adminDiv" align="right">
+								<g:FocusPanel ui:field="admin">
+									<g:HTMLPanel>
+										<p>Options</p>
+										<b:Icon type="GEARS" size="THREE_TIMES"></b:Icon>
+									</g:HTMLPanel>
+								</g:FocusPanel>
+							</div>
+
+							<div id="helpDiv" align="right">
+								<g:FocusPanel ui:field="help">
+									<g:HTMLPanel>
+										<p>Help</p>
+										<b:Icon type="QUESTION" size="TWO_TIMES"></b:Icon>
+									</g:HTMLPanel>
+								</g:FocusPanel>
+							</div>
+
+						</g:HTMLPanel>
+
+			</b:Column>
+		</b:Row>
+
+	</g:HTMLPanel>
+</ui:UiBinder> 

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type
+END
+SenseAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SenseAnno.java
+END
+SenseAnno_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SenseAnno_Type.java
+END
+ArktweetAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/ArktweetAnno.java
+END
+SentimentAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SentimentAnno.java
+END
+SimpleSenseAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SimpleSenseAnno.java
+END
+ArktweetAnno_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/ArktweetAnno_Type.java
+END
+SentimentAnno_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SentimentAnno_Type.java
+END
+SimpleSenseAnno_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/SimpleSenseAnno_Type.java
+END
+typeSystemDescriptor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/187/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/typeSystemDescriptor.xml
+END
+CleanedSenseAnno.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/CleanedSenseAnno.java
+END
+CleanedSenseAnno_Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/243/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/CleanedSenseAnno_Type.java
+END
+typeSystemDescriptor2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/187/SocialMediaExplorer/src/main/java/ude/SocialMediaExplorer/analysis/type/typeSystemDescriptor2.xml
+END
